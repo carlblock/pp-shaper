@@ -7,7 +7,7 @@ An app for changing a shape faces and applying colour to them.
  * Vue with Vuex ( State management like redux )
  * Tailwind ( PostCSS helpers and utils )
 
-###Code notes:
+### Code notes:
  * Please use ESLint with configured airbnb javascript rules to
 adhere to the project config.
 
